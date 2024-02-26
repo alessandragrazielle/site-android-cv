@@ -56,7 +56,7 @@ header > p {
     font-size: 1.2em;
     max-width: 500px;
     margin: auto; /*como colocou uma largura máxima, virou um bloco, então, para centralizar, coloca margin: auto*/
-    margin-bottom: 20px;
+    padding-bottom: 40px;
     padding: 0 10px 10px 0; /*padding na direira e na esquerda | quando a tela estiver menor que 500px, não vai ficar colado na lateral*/
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
